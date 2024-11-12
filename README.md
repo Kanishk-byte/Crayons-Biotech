@@ -30,22 +30,6 @@ Crayons Biotech is built with the vision of bridging the gap between patients an
 - **CSS** - Styling for visual appeal and responsive layout.
 - **JavaScript** - Interactive functionality like appointment scheduling.
 
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage Preview](https://via.placeholder.com/800x400)  
-*The main landing page where users can browse services and navigate the website.*
-
-### Doctor Directory
-
-![Doctor Directory](https://via.placeholder.com/800x400)  
-*Find doctors by specialty and book appointments with ease.*
-
-*(Replace placeholders with actual screenshots)*
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone this repository:**
